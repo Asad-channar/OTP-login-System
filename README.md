@@ -2,8 +2,6 @@
 
 A web-based two-factor authentication (2FA) system built with vanilla HTML, CSS, and JavaScript. Users log in with a username and password, then verify a 6-digit One-Time Password (OTP) sent to their registered email — all within a 10-second window.
 
-> **Lab Task 2** — Cybersecurity: Implementing a Login System with OTP Authentication
-
 ---
 
 ## What It Does
