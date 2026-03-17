@@ -119,7 +119,7 @@ The database contains 75 accounts. Passwords follow the format: first 3 letters 
 
 ## Known Security Limitations
 
-This project is a **lab demonstration**, not a production system. Documented weaknesses include:
+Some limitations were left to undertand the concept of security if it will be in a production environment. This will help us to improve such systems in a real environment.
 
 | # | Issue | Why It Matters |
 |---|-------|----------------|
@@ -134,15 +134,6 @@ This project is a **lab demonstration**, not a production system. Documented wea
 
 A full analysis of all weaknesses and their mitigations is covered in the accompanying security report.
 
----
-
-## Screenshots
-
-| Login Screen | OTP Verification | Access Granted + Database |
-|---|---|---|
-| Username + password fields | 6-digit input with live countdown | Success screen + user table revealed |
-
----
 
 ## Tech Stack
 
